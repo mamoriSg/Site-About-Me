@@ -20,8 +20,8 @@ nav a{
     color: white;
     background-color: #FF8C00;
     text-decoration: none;
-    margin: 50px 50px;
-    font-size: 20px;
+    margin: 60px 60px;
+    font-size: 30px;
     border-radius: 25%;
 }
 
@@ -37,14 +37,13 @@ nav a:hover{
 }
 
 .text-container{
+    font-size: 20px;
+    word-wrap: break-word;
+    max-width: 650px;
     margin-top: 20px;
     margin-left: 40px;
 }
 
 img{
     border: 5px solid #90EE90;
-}
-
-.p  {
-    
 }
