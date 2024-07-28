@@ -51,14 +51,17 @@ img {
     padding: 30px;
 }
 
-.right-side div, p {
+.right-side p {
+    display: flex;
+    justify-content: space-between;
     font-size: 25px;
 }
 
-.right-side u{
-    margin-left: 5%;
-    
+.right-side u {
+    margin-left: auto;
+    text-decoration: underline;
 }
+
 
 .line{
     display: inline-block;
