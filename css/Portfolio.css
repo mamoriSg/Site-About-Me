@@ -17,8 +17,12 @@ div, h1{
     padding: 16px;
 }
 
-body {
-    font-family: Arial, sans-serif;
+.first-project{
+    background-color: white;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    max-width: 1400px;
 }
 
 header {
