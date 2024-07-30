@@ -7,23 +7,33 @@
 
 body {
     font-family: Lilita One;
-    height: 700px;
+    height: 1000px;
+    text-align: center;
+    background-color: #f0b495;
+    color: #4b2e2e;
 }
 
 div, h1{
     text-align: center;
-    background-color: grey  ;
-    color: white;
+    background-color: #f7e3a1 ;
+    color: #333333;
     padding: 16px;
 }
 
 .first-project{
-    background-color: white;
-    color: black;
+    background-color: #f0b495;
+    color:#4b2e2e;
     text-align: left;
     font-size: 25px;
-    max-width: 1400px;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid grey;
+}
+
+
 
 header {
     background-color: #333;
@@ -40,4 +50,13 @@ nav a {
 h1 {
     text-align: center;
     margin: 20px 0;
+}
+
+.GitHub{
+    background-color: #d3d3d3;
+    color: #333333;
+}
+
+a{
+    text-decoration: none;
 }
