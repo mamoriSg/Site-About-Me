@@ -10,6 +10,35 @@ body {
     height: 700px;
 }
 
+.top {
+    display: flex;
+    justify-content: center;
+    /* Центрує весь вміст по горизонталі */
+    align-items: center;
+    /* Вирівнює вміст по вертикалі */
+    background-color: rgb(174, 174, 174);
+    padding: 25px;
+    color: white;
+    position: relative;
+}
+
+.top a {
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 25px;
+    border-radius: 27%;
+    /* Додає відступ від лівого краю */
+}
+
+.top h1 {
+    margin: 0;
+}
+
+
 .resume-container{
     display: flex;
 

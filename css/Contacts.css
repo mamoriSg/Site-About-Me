@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lilita+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lilita One;
+    height: 1000px;
+    font-size: 25px;
+}
+
+.contacts{
+    background-color: rgb(229, 167, 214);
+    color: brown;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.schedule {
+    width: 80%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 14px;
+    text-align: center;
+}
+
+th {
+    background-color:rgb(229, 167, 214);
+    color:brown;
+}
+
+#Social{
+    max-width: 20px;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
+
+a:hover{
+    color: rgb(78, 78, 169);
+    cursor: pointer;
+}
+
+
+a:visited{
+    color: rgb(78, 78, 169);
+}
