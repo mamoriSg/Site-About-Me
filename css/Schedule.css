@@ -11,6 +11,18 @@ body {
     font-size: 25px;
 }
 
+.top a {
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(130, 146, 171);
+    padding: 25px;
+    border-radius: 27%;
+    margin-top: 10px;
+}
+
 h1 {
     background-color: rgb(29, 65, 122);
     color: rgb(223, 223, 223);

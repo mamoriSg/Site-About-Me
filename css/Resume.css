@@ -13,9 +13,7 @@ body {
 .top {
     display: flex;
     justify-content: center;
-    /* Центрує весь вміст по горизонталі */
     align-items: center;
-    /* Вирівнює вміст по вертикалі */
     background-color: rgb(174, 174, 174);
     padding: 25px;
     color: white;
@@ -31,7 +29,6 @@ body {
     background-color: black;
     padding: 25px;
     border-radius: 27%;
-    /* Додає відступ від лівого краю */
 }
 
 .top h1 {

@@ -13,6 +13,30 @@ body {
     color: #4b2e2e;
 }
 
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    color: white;
+    position: relative;
+}
+
+.top a {
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    text-decoration: none;
+    color:black;
+    background-color:#f0b495;
+    padding: 25px;
+    border-radius: 27%;
+}
+
+.top h1 {
+    margin: 0;
+}
+
 div, h1{
     text-align: center;
     background-color: #f7e3a1 ;

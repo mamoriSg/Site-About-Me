@@ -11,6 +11,17 @@ body {
     font-size: 25px;
 }
 
+.contacts a {
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(229, 167, 214);
+    background-color:brown;
+    padding: 10px;
+    border-radius: 27%;
+}
+
 .contacts{
     background-color: rgb(229, 167, 214);
     color: brown;
